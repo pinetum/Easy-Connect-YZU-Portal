@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Portal輕鬆連</string>
+    <string name="action_about">關於</string>
+    <string name="action_logout">登出</string>
+    <string name="all_course_list">課程清單</string>
+    <string name="action_loading">讀取中</string>
+    <string name="action_wait">請稍後</string>
+    <string name="error_loading">讀取錯誤</string>
+
+</resources>
